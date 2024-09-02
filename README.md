@@ -1,7 +1,15 @@
-## caquinha farofada com ovo maltine
+## Boas vindas ao meu perfil! 💙
 
--hidrante.zip
+Meu nome é thiago lubanki
 
--human.exe
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo em JavaScript
+- Utilizo esse espaço para minha organiação e compartilhamento dos mus projetos desenvolvidos
 
+
+  ### Você entrar em contato comigo 📫
+
+  lubanski.thiago@escola.pr.gov.br
+
+  
 ![](https://media1.tenor.com/m/BY-4cJ3NSrcAAAAd/sus-suspicious.gif)
